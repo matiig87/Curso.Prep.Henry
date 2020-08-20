@@ -50,7 +50,7 @@ describe('nuevoBool', function() {
 describe('nuevaResta', function() {
   it('Deberia ser un booleano', function() {
     expect(nuevaResta).toBe(true);
-  });
+  }); 
 });
 
 describe('nuevaMultiplicacion', function() {
