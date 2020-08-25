@@ -1,0 +1,23 @@
+Variables 
+Una variable es una forma de almacenar algo que podemos configurar y reestablecer para utilizar luego.
+Para crearla utilizamos la palabra clave var
+
+Strings
+Son bloques de texto siempre definidas entre comillas
+
+Funciones (argumentos, `return`)
+Las funciones son tipos particulares de objetos llamados invocables. 
+Sirven para calcular las variables, cambiarlas, hacer algo con ellas
+
+Argumentos 
+Son los datos sobre los que va a trabajar la funcion y se pueden agregar multiples utulizando una coma.
+
+Return
+Lo utilizamos cuando queremos devolver algo, si luego de una operacion matematica utilizamos "return" devolvera el resultado de la operacion y no se podra modificar.
+
+Declaraciones 
+Una declaracion es la afirmacion que deseamos resolver dentro de una comparacion, para esto utilizamos los signos <, <=, >, > =, ===, ! ==.
+if es el operador que determina condicion y esta se resuelve con los datos de la declaracion
+
+Valores Booleanos
+Se utilizan en JavaScript para significar verdadero o falso (true o false)
