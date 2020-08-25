@@ -1,0 +1,20 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+Es una expresion de bucle incorporada en JavaScript, sirve para evaluar expresiones una y otra vez hasta que devuelve lo que estamos buscando.
+Para utilizarla correctamente necesitamos 3 cosas clave.
+1. declarar una variable.
+2. el ciclo continuara hasta que sea false
+3. incrementar la variable 
+
+Operadores logicos
+* `&&`
+Operador "AND", esto evaluara ambas expresiones y devolvera verdadero si ambas expresiones son true.
+
+`||`
+Operador "OR", evaluara ambas expresiones, si una es verdadera devolvera true y si las dos son falsas devolvera false
+
+
+`!`
+Operador "NOT", este devolvera el valor booleano opuesto de lo que se le pasa.
+
