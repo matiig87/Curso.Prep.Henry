@@ -1,0 +1,2 @@
+Array
+Es una lista de elementos ordenados que puede contener cualquier tipo de datos desde strings, funciones, numeros, inclusive puede tener otro arreglo dentro
